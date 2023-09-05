@@ -1,45 +1,47 @@
 # C-Graphics-DCC_Management
 Institute management software using C programming with Graphics Programming. I had made this project when i'm in the 1st semester and make very first GUI based software. This is partially incomplete but during making tthis project i learned a lot and become more confident in the software development field.
 *****************************
-![Screenshot (313)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/9364a039-1156-4236-8ba5-2eaa56d9f86c)
+![Screenshot (313)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/95a89dda-9c78-4d60-8e49-9cff052b05c0)
+
 *****************************
-![Screenshot (341)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/4c9ebac4-c395-48e3-8ae4-f2199831e697)
+![Screenshot (316)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/329a7b3d-a3bb-48d0-b0c7-c63e9d3c113c)
+
 *****************************
-![Screenshot (315)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/5e1abbee-8d3b-40e1-b6cd-5525418a614b)
+![Screenshot (341)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/cc70e3a9-6a19-42a1-b180-47450221f064)
+
 *****************************
-![Screenshot (316)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/458fafed-ad52-4cdf-af35-0805fa823105)
+![Screenshot (315)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/10adb701-928a-4513-88c2-6569b3075e1e)
+
 *****************************
-![Screenshot (342)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/3a4214c6-be2c-4376-b108-3facfd29891b)
+![Screenshot (342)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/a1c6f91e-b573-492a-bdf9-ca01e2ed3ff2)
+
 *****************************
-![Screenshot (343)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/7f79e944-45bf-4acb-9ef8-1fdbd91d7a8a)
+![Screenshot (344)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/e8c3e61b-9f38-41d3-923e-abe7fd048682)
+
 *****************************
-![Screenshot (344)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/322fc703-aacc-445c-b104-1b0f84ff07b0)
+![Screenshot (346)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/b7644824-96d4-44c0-a677-8915d3d9a419)
+
 *****************************
-![Screenshot (345)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/9293f9c7-2d14-439f-ae9b-176b4d0eb87d)
+
+![Screenshot (348)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/c6a6915b-95ce-48b1-af63-f59e109812ff)
+
 *****************************
-![Screenshot (346)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/2cd16a5a-f7a3-4cdd-854f-022e0897633b)
+![Screenshot (349)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/e57daefe-1a81-43ae-a15c-66a1234dee0c)
+
 *****************************
-![Screenshot (347)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/222ecd5b-af58-456a-914b-bdcf46235e66)
+![Screenshot (350)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/cf886a7c-46b6-468e-868c-bb126c8a9489)
+
 *****************************
-![Screenshot (348)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/58ee4484-2b06-44a9-a2ee-e1e0dc81c503)
+![Screenshot (353)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/7a5aee09-0d68-46db-8e96-f95e8ad908f1)
+
 *****************************
-![Screenshot (349)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/528edf70-d7a2-4f4d-ba18-2d19ac61908a)
+![Screenshot (354)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/4c101e9d-81a4-4234-ae82-f86e0b7aebe0)
+
 *****************************
-![Screenshot (350)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/e0938fa3-01d3-4958-b557-8bd4d92b9341)
+![Screenshot (355)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/fb7743f9-64a2-4787-81d3-2ffb36cf7bd6)
+
 *****************************
-![Screenshot (351)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/2dfcfd84-8ed3-4c52-b02b-9acf7cb922e3)
+![Screenshot (357)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/f20abb86-71e1-48b2-b9d7-bfb5194e5f85)
+
 *****************************
-![Screenshot (353)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/e949ce44-0e90-46d2-a260-7bee98ad802e)
-*****************************
-![Screenshot (354)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/25a2453b-2a52-42d3-bb85-2c80a0407e8d)
-*****************************
-![Screenshot (355)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/c67f76c8-5c29-4854-a18b-6dcdc6d949b0)
-*****************************
-![Screenshot (356)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/c6dfc9d7-fc91-4510-ab2d-26c1d915c739)
-*****************************
-![Screenshot (357)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/20212f62-2b2a-4c4f-a13c-bf89849f1082)
-*****************************
-![Screenshot (358)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/c8e796f0-4835-472e-bbb7-0a6993eb5474)
-*****************************
-![Screenshot (359)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/7b7f0717-8c01-4b62-8a73-63617befc9cc)
-*****************************
+![Screenshot (359)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/6be9f75b-f007-4960-a3f6-fa1231c05ed8)
