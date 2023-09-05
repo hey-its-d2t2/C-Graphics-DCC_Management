@@ -1,11 +1,13 @@
 # C-Graphics-DCC_Management
 Institute management software using C programming with Graphics Programming. I had made this project when i'm in the 1st semester and make very first GUI based software. This is partially incomplete but during making tthis project i learned a lot and become more confident in the software development field.
 *****************************
+![Screenshot (313)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/9364a039-1156-4236-8ba5-2eaa56d9f86c)
+*****************************
+![Screenshot (341)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/4c9ebac4-c395-48e3-8ae4-f2199831e697)
+*****************************
 ![Screenshot (315)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/5e1abbee-8d3b-40e1-b6cd-5525418a614b)
 *****************************
 ![Screenshot (316)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/458fafed-ad52-4cdf-af35-0805fa823105)
-*****************************
-![Screenshot (341)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/4c9ebac4-c395-48e3-8ae4-f2199831e697)
 *****************************
 ![Screenshot (342)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/3a4214c6-be2c-4376-b108-3facfd29891b)
 *****************************
@@ -41,4 +43,3 @@ Institute management software using C programming with Graphics Programming. I h
 *****************************
 ![Screenshot (359)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/7b7f0717-8c01-4b62-8a73-63617befc9cc)
 *****************************
-![Screenshot (313)](https://github.com/hey-its-d2t2/C-Graphics-DCC_Management/assets/63626210/9364a039-1156-4236-8ba5-2eaa56d9f86c)
